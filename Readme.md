@@ -2,6 +2,9 @@
 
 Welcome to **Mini Chat-Bot**, a smart and interactive application designed to **summarize PDF documents and YouTube videos** while allowing users to **chat directly with the content**. This app leverages **OpenAI's GPT-4** model to provide insightful summaries and enables dynamic conversations with the material you're engaging with.
 
+![image](https://github.com/user-attachments/assets/732f4a9e-c359-4ea2-bd39-e1c4d89508a8)
+
+
 🚀 **Key Features**:
 
 - **PDF Summarization**: Upload any PDF document, and our bot will break down the key points for you.
