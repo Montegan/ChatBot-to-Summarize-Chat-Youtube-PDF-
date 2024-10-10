@@ -1,0 +1,31 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Streamlit Secrets (if applicable)
+secrets.toml
+
+# Node dependencies (if you're using Node in any part of your project)
+node_modules/
+
+# OpenAI API Key
+secrets.json
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# MacOS-specific files
+.DS_Store
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
