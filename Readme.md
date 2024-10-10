@@ -5,6 +5,10 @@ Welcome to **Mini Chat-Bot**, a smart and interactive application designed to **
 ![image](https://github.com/user-attachments/assets/732f4a9e-c359-4ea2-bd39-e1c4d89508a8)
 
 
+## Product demo VIdeo link below:
+- https://youtu.be/eC8Dt9b_eCE 
+
+
 🚀 **Key Features**:
 
 - **PDF Summarization**: Upload any PDF document, and our bot will break down the key points for you.
